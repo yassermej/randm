@@ -31,7 +31,7 @@ character, including:
  - Origin
  - Episodes in which they appear
 
-A RESTful API is available at [Rick and Morty](https://rickandmortyapi.com/)
+A RESTful API is available at [Rick and Morty]
 which will provide you with all the data that you will need. You do not need
 to create an account nor authenticate in order to consume the API, however please
 be aware that this API is rate-limited.
